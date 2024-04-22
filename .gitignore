@@ -1,0 +1,35 @@
+# Byte-compiled / compiled python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python environment
+venv/
+env/
+*.env
+
+# Dependency directories
+/.venv/
+/.env/
+
+
+# macOS metadata files
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+
+# PyCharm files
+*.iml
+
+# Exclude pyautogen folder
+pyautogen/
+coding/
+flagged/
+.cache/
+
